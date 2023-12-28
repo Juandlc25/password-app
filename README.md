@@ -1,6 +1,6 @@
 # Password component app
 
-## Live demo
+### Live demo
 [Live demo](https://658da5204abcd606bcff7088--lucent-boba-eccb7e.netlify.app/)
 
 ### Quick start
